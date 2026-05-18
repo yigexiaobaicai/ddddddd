@@ -328,16 +328,7 @@
     },
     {
       "key": "site_37",
-      "name": "37_番茄资源",
-      "type": 0,
-      "api": "https://fqzy.me//api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "site_38",
-      "name": "38_光速资源",
+      "name": "37_光速资源",
       "type": 0,
       "api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -345,8 +336,8 @@
       "filterable": 1
     },
     {
-      "key": "site_39",
-      "name": "39_量子资源",
+      "key": "site_38",
+      "name": "38_量子资源",
       "type": 0,
       "api": "https://cj.lziapi.com/api.php/provide/vod/from/liangzi/at/xml",
       "searchable": 1,
@@ -354,8 +345,8 @@
       "filterable": 1
     },
     {
-      "key": "site_40",
-      "name": "40_998资源",
+      "key": "site_39",
+      "name": "39_998资源",
       "type": 0,
       "api": "https://api.998zy.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -363,8 +354,8 @@
       "filterable": 1
     },
     {
-      "key": "site_41",
-      "name": "41_ckzy",
+      "key": "site_40",
+      "name": "40_ckzy",
       "type": 0,
       "api": "https://ckzy.me/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -372,26 +363,8 @@
       "filterable": 1
     },
     {
-      "key": "site_42",
-      "name": "42_滴滴",
-      "type": 0,
-      "api": "https://api.ddapi.cc/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "site_43",
-      "name": "43_豆豆",
-      "type": 0,
-      "api": "https://api.douapi.cc/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "site_44",
-      "name": "44_魔爪资源",
+      "key": "site_41",
+      "name": "41_魔爪资源",
       "type": 0,
       "api": "https://mozhuazy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -399,8 +372,8 @@
       "filterable": 1
     },
     {
-      "key": "site_45",
-      "name": "45_花花资源",
+      "key": "site_42",
+      "name": "42_花花资源",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/at/json",
       "searchable": 1,
@@ -408,8 +381,8 @@
       "filterable": 1
     },
     {
-      "key": "site_46",
-      "name": "46_樱桃资源",
+      "key": "site_43",
+      "name": "43_樱桃资源",
       "type": 0,
       "api": "https://api.ytyszy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -417,8 +390,8 @@
       "filterable": 1
     },
     {
-      "key": "site_47",
-      "name": "47_盈盈资源",
+      "key": "site_44",
+      "name": "44_盈盈资源",
       "type": 0,
       "api": "https://yyzyz.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -426,8 +399,8 @@
       "filterable": 1
     },
     {
-      "key": "site_48",
-      "name": "48_优优资源",
+      "key": "site_45",
+      "name": "45_优优资源",
       "type": 0,
       "api": "https://api.yyzys.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -435,8 +408,8 @@
       "filterable": 1
     },
     {
-      "key": "site_49",
-      "name": "49_南瓜资源",
+      "key": "site_46",
+      "name": "46_南瓜资源",
       "type": 0,
       "api": "https://www.nmzyz.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -444,8 +417,8 @@
       "filterable": 1
     },
     {
-      "key": "site_50",
-      "name": "50_无尽资源",
+      "key": "site_47",
+      "name": "47_无尽资源",
       "type": 1,
       "api": "https://api.wujinapi.com/api.php/provide/vod/at/json",
       "searchable": 1,
@@ -453,8 +426,8 @@
       "filterable": 1
     },
     {
-      "key": "site_51",
-      "name": "51_闪电资源",
+      "key": "site_48",
+      "name": "48_闪电资源",
       "type": 1,
       "api": "https://sdzyapi.com/api.php/provide/vod/at/json",
       "searchable": 1,
@@ -462,8 +435,8 @@
       "filterable": 1
     },
     {
-      "key": "site_52",
-      "name": "52_飞驰资源",
+      "key": "site_49",
+      "name": "49_飞驰资源",
       "type": 1,
       "api": "https://api.maoyanapi.top/api.php/provide/vod/at/json",
       "searchable": 1,
