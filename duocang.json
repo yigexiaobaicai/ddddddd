@@ -1,92 +1,60 @@
 {
-	"urls": [
-
-		{
-			"name": "EasyTV永久线路",
-			"url": "https://gh-proxy.com/raw.githubusercontent.com/EasyXC/EasyTVbox/main/easytv.jpg"
-		},
-		{
-			"name": "EasyTV国内1",
-			"url": "https://pan.szfx.top/view.php/46240833fb9ab99712c9e34806d9bcbc.jpg"
-		},
-		{
-			"name": "EasyTV国内2",
-			"url": "https://wp.kayyw.com/f/YRjDSo/easytv.jpg"
-		},
-		{
-			"name": "EasyTV国内3",
-			"url": "https://mpimg.cn/view.php/46240833fb9ab99712c9e34806d9bcbc.jpg"
-		},
-		{
-			"name": "少儿教育",
-			"url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer"
-		},
-		{
-			"name": "饭太硬",
-			"url": "http://www.饭太硬.net/tv"
-		},
-
-		{
-			"name": "哈基米",
-			"url": "https://17264.kstore.space/哈基米.png"
-		},
-		{
-			"name": "总有刁民想害朕",
-			"url": "https://wp.kayyw.com/f/MllRc6/%E6%80%BB%E6%9C%89%E5%88%81%E6%B0%91%E6%83%B3%E5%AE%B3%E6%9C%95.json"
-		},
-		{
-			"name": "林中小屋",
-			"url": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tattoo/refs/heads/main/OK/okys.json"
-		},
-
-		{
-			"name": "王二小放牛娃",
-			"url": "http://tvbox.王二小放牛娃.top"
-		},
-		{
-			"name": "肥猫",
-			"url": "http://肥猫.net"
-		},
-		{
-			"name": "摸鱼",
-			"url": "http://我不是.摸鱼儿.top"
-		},
-		{
-			"name": "南风",
-			"url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
-		},
-		{
-			"name": "菜妮丝",
-			"url": "https://tv.菜妮丝.top"
-		},
-		{
-			"name": "道长",
-			"url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json"
-		},
-		{
-			"name": "天微七星",
-			"url": "http://7337.kstore.space/qxys/禁止传播.json"
-		},
-
-		{
-			"name": "苍蓝小屋",
-			"url": "https://13537.kstore.vip/tvbox/test.json"
-		},
-		{
-			"name": "拾光",
-			"url": "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json"
-		},
-		{
-			"name": "jsm",
-			"url": "https://gh-proxy.com/https:/raw.githubusercontent.com/leevi0709/one/main/jsm.json"
-		},
-		{
-			"name": "香雅情",
-			"url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
-		},
-		{
-			"name": "玄珠",
-			"url": "https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json"
-		}
+	"storeHouse": [
+		{ "name": "⭐ 01_精品多仓 | 薛定谔的喵", "url": "https://ghp.ci/https://raw.githubusercontent.com/xdedcat-lf/cattv/refs/heads/main/cat0" },
+		{ "name": "⭐ 02_优选多仓 | 薛定谔的喵", "url": "https://ghp.ci/https://raw.githubusercontent.com/xdedcat-lf/cattv/refs/heads/main/cat1" },
+		{ "name": "⭐ 03_Easy多仓 | 薛定谔的喵", "url": "https://ghp.ci/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/easydc.jpg" },
+		{ "name": "🔥 04_顶级直连 | 饭太硬", "url": "http://www.饭太硬.net/tv" },
+		{ "name": "🐱 05_稳定直连 | 肥猫", "url": "http://肥猫.net" },
+		{ "name": "🚀 06_永久线路 | EasyTV", "url": "https://ghp.ci/raw.githubusercontent.com/EasyXC/EasyTVbox/main/easytv.jpg" },
+		{ "name": "🛠️ 07_聚合SVIP | 巧记", "url": "https://ghp.ci/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json" },
+		{ "name": "🛠️ 08_巧记精选 | 龙门", "url": "https://ghp.ci/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/aa.json" },
+		{ "name": "🛠️ 09_巧记接口 | 龙门API", "url": "https://ghp.ci/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/api.json" },
+		{ "name": "🛖 10_林中小屋 | OK", "url": "https://ghp.ci/https://raw.githubusercontent.com/tushen6/Tattoo/refs/heads/main/OK/okys.json" },
+		{ "name": "🐟 11_我不是摸鱼儿", "url": "http://我不是.摸鱼儿.top" },
+		{ "name": "👑 12_王二小放牛娃", "url": "http://tvbox.王二小放牛娃.top" },
+		{ "name": "🍃 13_南风XC接口", "url": "https://ghp.ci/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json" },
+		{ "name": "💃 14_菜妮丝官方", "url": "https://tv.菜妮丝.top" },
+		{ "name": "📺 15_道长Py接口", "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json" },
+		{ "name": "🌌 16_天微七星接口", "url": "http://7337.kstore.space/qxys/禁止传播.json" },
+		{ "name": "💎 17_香雅情XYQ", "url": "https://ghp.ci/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json" },
+		{ "name": "🔮 18_玄珠XZVIP", "url": "https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json" },
+		{ "name": "🛖 19_苍蓝小屋测试", "url": "https://13537.kstore.vip/tvbox/test.json" },
+		{ "name": "🎭 20_总有刁民想害朕", "url": "https://wp.kayyw.com/f/MllRc6/%E6%80%BB%E6%9C%89%E5%88%81%E6%B0%91%E6%83%B3%E5%AE%B3%E6%9C%95.json" },
+		{ "name": "🤝 21_华缘社多仓", "url": "https://chuanshuo.77blog.cn/api/华缘社.json" },
+		{ "name": "🏯 22_无界多仓", "url": "https://www.xn--rgv465a.top/fine.json" },
+		{ "name": "🎂 23_幸福年年多仓", "url": "https://ghp.ci/https://raw.githubusercontent.com/2124662895/yydhj/mainvhh/bbmm.json" },
+		{ "name": "👻 24_游魂多仓", "url": "https://www.iyouhun.com/tv/dc" },
+		{ "name": "📻 25_武志红仓", "url": "https://www.imwzh.com/tv.json" },
+		{ "name": "🎶 26_讴歌多仓", "url": "https://tv.nxog.top" },
+		{ "name": "📚 27_百仓线路", "url": "https://teach.link/7BgCf8" },
+		{ "name": "🐉 28_青龙多仓", "url": "http://ztha.top/TVBox/GYCK.json" },
+		{ "name": "🛡️ 29_白虎多仓", "url": "https://ghp.ci/https://raw.githubusercontent.com/tushen6/Tomorrow/master/lmw.json" },
+		{ "name": "🐢 30_玄武多仓", "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvboxmuti.json" },
+		{ "name": "🦁 31_麒麟多仓", "url": "http://iiptv.xyz/dxaz" },
+		{ "name": "📂 32_朱雀多仓", "url": "http://xmbjm.fh4u.org/dc.txt" },
+		{ "name": "🏫 33_少儿教育专用", "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer" },
+		{ "name": "🐱 34_CatCr猫片", "url": "https://ghp.ci/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json" },
+		{ "name": "📦 35_Omniele接口", "url": "https://ghp.ci/https://raw.githubusercontent.com/omniele/TVBOX/refs/heads/main/tvbox.json" },
+		{ "name": "📟 36_Ediart单仓", "url": "https://ghp.ci/https://github.com/ediart/tvbox/raw/refs/heads/main/TVBoxOSC/tvbox/api.json" },
+		{ "name": "🎬 37_爱优腾备份", "url": "https://ghp.ci/https://raw.githubusercontent.com/city10666/tvbox-beifen/refs/heads/main/aiyouteng.json" },
+		{ "name": "💎 38_XC单线1", "url": "https://ghp.ci/https://raw.githubusercontent.com/hy5528/tvbox/refs/heads/main/XC.json" },
+		{ "name": "💎 39_My单线2", "url": "https://ghp.ci/https://raw.githubusercontent.com/hy5528/tvbox/refs/heads/main/my.json" },
+		{ "name": "📟 40_CSP单仓", "url": "https://ghp.ci/https://raw.githubusercontent.com/cspoh123/tvbox/refs/heads/main/cs2t.json" },
+		{ "name": "📅 41_GJJ备份2026", "url": "https://ghp.ci/https://github.com/gjjlovewhy-ipoh/tvbox/raw/refs/heads/main/20260527_065448.txt" },
+		{ "name": "🛠️ 42_Easy国内1", "url": "https://pan.szfx.top/view.php/46240833fb9ab99712c9e34806d9bcbc.jpg" },
+		{ "name": "🛠️ 43_Easy国内2", "url": "https://wp.kayyw.com/f/YRjDSo/easytv.jpg" },
+		{ "name": "🛠️ 44_Easy国内3", "url": "https://mpimg.cn/view.php/46240833fb9ab99712c9e34806d9bcbc.jpg" },
+		{ "name": "🐱 45_哈基米线路", "url": "https://17264.kstore.space/哈基米.png" },
+		{ "name": "📱 46_拾光SVIP备用", "url": "https://ghp.ci/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json" },
+		{ "name": "📡 47_直播_Guovin全能", "url": "https://ghp.ci/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u" },
+		{ "name": "📡 48_直播_Guovin_IPV6", "url": "https://ghp.ci/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u" },
+		{ "name": "📡 49_直播_Guovin_IPV4", "url": "https://ghp.ci/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u" },
+		{ "name": "📺 50_直播_电视家专线", "url": "https://ghp.ci/https://raw.githubusercontent.com/wujiangliu/live-sources/main/%E7%94%B5%E8%A7%86%E5%AE%B6.m3u" },
+		{ "name": "🏨 51_直播_酒店源1", "url": "https://ghp.ci/https://raw.githubusercontent.com/adminouyang/231006/raw/refs/heads/main/py/Hotel/hotel.txt" },
+		{ "name": "📡 52_直播_熊建源", "url": "https://ghp.ci/https://github.com/xiongjian83/TvBox/raw/refs/heads/main/live.txt" },
+		{ "name": "📡 53_直播_PL线路", "url": "https://ghp.ci/https://github.com/jn950/live/raw/refs/heads/main/tv/pllive.txt" },
+		{ "name": "🌐 54_直播_源数据json", "url": "https://ghp.ci/https://raw.githubusercontent.com/Guovin/iptv-api/gd/source.json" },
+		{ "name": "📟 55_JSM专线", "url": "https://ghp.ci/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json" },
+		{ "name": "🔮 56_zxsjc接口", "url": "https://ghp.ci/https://raw.githubusercontent.com/zxsjc/tvbox/refs/heads/main/yz/tvbox.json" }
 	]
 }
